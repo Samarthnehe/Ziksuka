@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div className="footer-bottom">
             <div>
-                <p>By Zikuka</p>
+                <p>By Ziksuka</p>
             </div>
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",width:"60%"}}>
             <div >
