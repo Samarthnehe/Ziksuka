@@ -66,6 +66,12 @@ form{
   padding: 0rem 0.8rem;
   
 }
+#formBasicEmail:focus{
+  box-shadow:none;
+}
+#formBasicPassword:focus{
+  box-shadow: none;
+}
 .form-label{
   margin-bottom: 0px;
 }
